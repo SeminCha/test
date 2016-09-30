@@ -9,12 +9,5 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //쏘쓰트리는 어려워!! 깃은 어려워!! 주석처리
-        //테스팅 투
-        //테스팅 쓰리?
-        //1차수정
-        //2차수정
-        //3차수정
-        //4차 수정
     }
 }
